@@ -1,0 +1,12 @@
+language: node_js
+cache:
+  npm: false
+node_js:
+  - "13"
+  - "12"
+  - "10"
+  - "8"
+  - "6"
+  - "5"
+  - "4"
+  - "4.5.0"
